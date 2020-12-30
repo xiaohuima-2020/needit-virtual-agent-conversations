@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application>Virtual Agent</application>
+        <key>Ask again when you need to update other NeedIt records.</key>
+        <language>en</language>
+        <message>Ask again when you need to update other NeedIt records.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-30 17:04:57</sys_created_on>
+        <sys_id>8f1f6d9f2f5d6010b0e3d4a72799b666</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ask again when you need to update other NeedIt records.</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_552353_needit_vi">3b5725db2f5d6010b0e3d4a72799b6cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">3b5725db2f5d6010b0e3d4a72799b6cb</sys_scope>
+        <sys_update_name>sys_ui_message_8f1f6d9f2f5d6010b0e3d4a72799b666</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-30 17:04:57</sys_updated_on>
+    </sys_ui_message>
+</record_update>
